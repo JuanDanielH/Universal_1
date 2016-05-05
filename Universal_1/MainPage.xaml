@@ -11,5 +11,7 @@
         <Button>Saludar</Button>
         <Button>Despedir</Button>
         <Button>Fin</Button>
+        <Button>Hola</Button>
+        <Button>hi</Button>
     </Grid>
 </Page>
