@@ -13,7 +13,11 @@
         <Button>Fin</Button>
         <Button>Hola</Button>
         <Button>hi</Button>
+<<<<<<< HEAD
         <Button>Test</Button>
         <Button>Test 2</Button>
+=======
+        <Button>DH</Button>
+>>>>>>> 91ffd32fa9ff2b3ea6b05d839f4bdc55ad24b598
     </Grid>
 </Page>
